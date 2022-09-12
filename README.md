@@ -1,2 +1,0 @@
-# MyEbicWebsite
-My ebic website
